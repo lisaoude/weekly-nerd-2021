@@ -26,6 +26,8 @@ Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](
 
 [Lees hier het hele artikel in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/Het-Artikel-%231)
 
+</br>
+
 ---
 
 ## :two: Weekly Nerd 02
