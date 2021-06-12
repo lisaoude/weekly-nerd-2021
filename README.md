@@ -1,5 +1,5 @@
 # Weekly Nerd @cmda-minor-web · 2020 - 2021
-Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki)
+Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki).
 
 ---
 
@@ -18,6 +18,7 @@ Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](
 > In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontend developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden.  
 
 [Lees hier mijn antwoord in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/De-Vraag-%231)
+
 </br>
 
 ### Het artikel
@@ -35,12 +36,14 @@ Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](
 </br>
 
 [Ook te bekijken in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/De-Sketchnote-%232)
+
 </br>
 
 ### De vraag
 > Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is er voor zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en biased uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken? Lees het artikel [On racism and sexism in branding, user interface, and tech](https://uxdesign.cc/on-racism-and-sexism-in-branding-user-interface-and-tech-337f5ceb7ed5) en het project [Working towards a more inclusive design scene in The Netherlands](https://inclusief.design/) en gebruik dit voor het beantwoorden van de vraag.  
 
 [Lees hier mijn antwoord in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/De-Vraag-%232)
+
 </br>
 
 ### Het artikel
@@ -60,6 +63,7 @@ Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](
 </br>
 
 [Ook te bekijken in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/De-Sketchnote-%233)
+
 </br>
 
 ### De vraag
@@ -68,10 +72,11 @@ Alle sketchnotes, beantwoorde vragen en artikelen zijn te vinden in [mijn wiki](
 > In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender.  
 
 [Lees hier mijn antwoord in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/De-Vraag-%233)
+
 </br>
 
 ### Het artikel
-Being blind on the web  
+🌐 Being blind on the web  
 
 [Lees hier het hele artikel in de wiki](https://github.com/lisaoude/weeklynerd-lisaoude/wiki/Het-Artikel-%233)
 
